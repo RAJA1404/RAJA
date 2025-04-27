@@ -1,3 +1,35 @@
+# 📊 Tableau Workbook: [AIRBNB NYC]
+
+Welcome!  
+This project includes a Tableau workbook created using Tableau Public.
+
+Due to file size limits, the workbook is stored externally.
+
+---
+
+## 🚀 How to Access the Tableau Workbook:
+
+1. Click the download link below:
+   👉 [Download Workbook (.twbx)]([https://drive.google.com/your-file-link](https://drive.google.com/file/d/1s16XXFQlDC3OwRrx-LUFqNltgtsk6WeQ/view?usp=sharing))
+
+2. Once downloaded, open the .twbx file using *Tableau Public* (free) or *Tableau Desktop*.
+
+3. You can explore, modify, and publish the workbook as needed.
+
+---
+
+## 🛠 Requirements:
+
+- *Tableau Public* (Free) — [Download here](https://public.tableau.com/en-us/s/download)
+
+or
+
+- *Tableau Desktop* (Paid) if you have access.
+
+---
+
+## ❓ Need Help?
+If you have any issues opening the workbook, feel free to create an issue or contact me.
 📊 Tableau Project: Airbnb Listings Analysis - New York City
 Project Overview
 This project presents an interactive data visualization analysis of Airbnb listings across New York City, developed as part of the Tableau Two-Credit Course at Nandha Engineering College.
