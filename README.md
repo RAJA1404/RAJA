@@ -10,11 +10,12 @@ Due to file size limits, the workbook is stored externally.
 ## 🚀 How to Access the Tableau Workbook:
 
 1. Click the download link below:
-   👉 [Download Workbook (.twbx)]([https://drive.google.com/your-file-link](https://drive.google.com/file/d/1s16XXFQlDC3OwRrx-LUFqNltgtsk6WeQ/view?usp=sharing))
+   👉 [Download Workbook (.twbx)]https://drive.google.com/file/d/1s16XXFQlDC3OwRrx-LUFqNltgtsk6WeQ/view?usp=drive_link
+   
 
-2. Once downloaded, open the .twbx file using *Tableau Public* (free) or *Tableau Desktop*.
+3. Once downloaded, open the .twbx file using *Tableau Public* (free) or *Tableau Desktop*.
 
-3. You can explore, modify, and publish the workbook as needed.
+4. You can explore, modify, and publish the workbook as needed.
 
 ---
 
